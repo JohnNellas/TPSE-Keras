@@ -1,0 +1,11 @@
+name: tpse_env
+channels:
+  - defaults
+dependencies:
+  - keras-gpu
+  - python=3.7
+  - numpy
+  - seaborn
+  - pandas
+  - scikit-learn
+  - matplotlib
